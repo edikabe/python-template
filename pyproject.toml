@@ -124,4 +124,4 @@ max-complexity = 10
 
 
 [tool.pytest.ini_options]
-pythonpath = ["src"]
+pythonpath = [".", "src"]
